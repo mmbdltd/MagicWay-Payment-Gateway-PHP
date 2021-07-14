@@ -1,12 +1,15 @@
 {
     "name": "magicway/momagic-php",
+    "version": "1.0.0",
     "description": "MagicWay payment gateway opening doors for merchants to receive payments on the internet via their online stores",
     "type": "library",
+    "keywords": [],
     "license": "MIT",
     "authors": [
         {
             "name": "Arifur Rahman",
-            "email": "info@momagicbd.com"
+            "email": "info@momagicbd.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "stable",
